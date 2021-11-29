@@ -1,3 +1,8 @@
+# HVDCP
+persist.vendor.cp.fcc_main_ua=400000
+persist.vendor.cp.qc3p5_vfloat_offset_uv=110000
+persist.vendor.cp.taper_term_mv=7000
+
 # Surfaceflinger
 debug.sf.early.app.duration=16600000
 debug.sf.early.sf.duration=16600000
